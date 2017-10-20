@@ -15,5 +15,6 @@ The concept of our idea is to make it fair for communities and parties when it c
  Groups can be made for one time or long term use. They do not have to require regular contributions and can just be for splitting a one off payment. Simply join or create a new group and the person who paid for an item or activity submits a request. This request could be like a form asking what the payment was for, how much it cost, and who will be splitting the cost within the group. The selected members will receive the request and with one click can pay their share. 
  
  We do not believe there are currently any apps that combine the actual splitting and settling of payments and debts, with making note of them. Square it is a community based solution striving to keep you and your group on top of your finances, and more importantly make all of you square.
- 
-https://localgenius.uk.barclays/gallery/57
+
+Read more about Barclays challenge here: 
+https://localgenius.uk.barclays/
